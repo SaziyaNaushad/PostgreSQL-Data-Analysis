@@ -1,2 +1,30 @@
 # SQL-Micro-Course
-A beginner-friendly course to build a strong foundation .This repository includes hands-on examples, queries,and exercises covering core topics like data retrieval, filtering, aggregation, joins, and database management. Perfect for students, beginners, and aspiring data analysts who want to quickly grasp SQL concepts with practical implementation.
+
+A beginner-friendly micro course to learn SQL with hands-on examples and exercises. Perfect for students and aspiring data analysts.
+
+# 📌 Topics Covered
+
+Basic Queries (SELECT, WHERE, ORDER BY)
+
+Update data using Toolbar
+
+Import CSV File
+
+Operators in SQL
+
+Functions in SQL
+
+Joins in SQL (INNER, LEFT, RIGHT)
+
+
+# 🚀 How to Use
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/sql-micro-course.git
+
+
+2. Open SQL files in your preferred database tool.
+
+
+3. Practice queries step by step.
