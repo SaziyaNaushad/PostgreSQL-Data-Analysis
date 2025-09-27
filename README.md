@@ -21,7 +21,7 @@ Joins in SQL (INNER, LEFT, RIGHT)
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/sql-micro-course.git
+git clone https://github.com/SaziyaNaushad/sql-micro-course.git
 
 
 2. Open SQL files in your preferred database tool.
