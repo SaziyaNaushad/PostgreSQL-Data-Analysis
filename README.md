@@ -1,30 +1,70 @@
-# SQL-Micro-Course
+🎯 Purpose
+This repository demonstrates my practical understanding of SQL and my ability to work with databases, queries, data manipulation, and analysis-related SQL concepts.
 
-A beginner-friendly micro course to learn SQL with hands-on examples and exercises. Perfect for students and aspiring data analysts.
+# SQL Micro Course
 
-# 📌 Topics Covered
+A beginner-friendly SQL learning repository covering fundamental SQL concepts through practical queries, examples, and exercises.
 
-Basic Queries (SELECT, WHERE, ORDER BY)
+This repository is created to build a strong foundation in SQL for data analysis and database-related tasks.
 
-Update data using Toolbar
+## 📚 Topics Covered
 
-Import CSV File
+### 1. Basic SQL
+- Creating databases and tables
+- Inserting data
+- Updating and deleting data
+- Selecting and filtering records
+- Basic SQL queries
 
-Operators in SQL
+### 2. SQL Functions
+- Aggregate functions
+- String functions
+- Date and time functions
+- Mathematical functions
+- Other commonly used SQL functions
 
-Functions in SQL
+### 3. Import CSV Files
+- Importing CSV data into SQL
+- Working with imported datasets
+- Basic data preparation
 
-Joins in SQL (INNER, LEFT, RIGHT)
+### 4. SQL Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- Joining data from multiple tables
 
+### 5. SQL Operators
+- Comparison operators
+- Logical operators
+- Arithmetic operators
+- BETWEEN, IN, LIKE, and related operators
 
-# 🚀 How to Use
+### 6. Updating Data Using Toolbar
+- Updating records
+- Editing table data
+- Working with database tools and toolbar features
 
-1. Clone the repository:
+## 🛠️ Tools & Technologies
 
-git clone https://github.com/SaziyaNaushad/sql-micro-course.git
+- SQL
+- PostgreSQL
+- SQL Database Tools
 
+## 📂 Repository Structure
 
-2. Open SQL files in your preferred database tool.
+```text
+SQL-Micro-Course/
+│
+├── Basic_SQL/
+├── Functions_in_SQL/
+├── Import_CSV_file/
+├── Joins_in_SQL/
+├── Operators_in_SQL/
+├── Update_Data_using_Toolbar/
+│
+└── README.md
 
-
-3. Practice queries step by step.
+👩‍💻 Author
+Saziya Naushad
+Aspiring Data Analyst | SQL | Power BI | Excel | Python
